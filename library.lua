@@ -155,17 +155,17 @@ local library = {
 	windows = {},
     pointers = {},
     settings = {
-        guiname = "Hexagon",
-		title = "Hexagon",
+        guiname = "Femhook",
+		title = "Femhook",
 		logo = "rbxassetid://4350178803", -- "http://www.roblox.com/asset/?id=6597976562",
-        footer = " Want to try our new product? https://cipex.solutions",
+        footer = "",
         modal = true,
         font = Enum.Font.SourceSans,
         textsize = 16,
         textstroke = true
     },
     theme = {
-        buttons = Color3.fromRGB(20, 200, 20), -- toggle, sliders colors
+        buttons = Color3.fromRGB(150, 27, 150), -- toggle, sliders colors
         text = Color3.fromRGB(235, 235, 235),
         textboxtext = Color3.fromRGB(145, 145, 145),
         main = Color3.fromRGB(30, 30, 30),
